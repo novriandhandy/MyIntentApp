@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="halaman_move_activity">Halaman Pindah Move</string>
+    <string name="move_activity_with_data">Pindah dengan Data</string>
+    <string name="data_received">Pengiriman Dengan Data</string>
+    <string name="move_with_objek">Pengiriman Dengan Object</string>
+    <string name="object_received">Pengiriman Objek</string>
+
+</resources>
